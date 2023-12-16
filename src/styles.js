@@ -10,10 +10,8 @@ export const Container = styled.div`
     justify-content: center;
 `
 
-
 export const Content = styled.div`
     background-color: #FFFFFF;
-    width: 50%;
 `
 
 export const Row = styled.div`
@@ -29,4 +27,3 @@ export const Column = styled.div`
     justify-content: space-between;
     align-items: center;
 `
-

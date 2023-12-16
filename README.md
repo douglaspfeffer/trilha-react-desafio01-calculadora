@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##
+The calculator only performs one operation at a time, requiring you to clear the screen at the end of each operation to start a new one.
+
 ## Available Scripts
 
 In the project directory, you can run:
